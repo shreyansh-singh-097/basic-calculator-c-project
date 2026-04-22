@@ -23,3 +23,22 @@ This is a simple command-line calculator program written in C. It performs basic
 
 2. Run the program:
    ./calculator
+
+## 💡 How It Works
+- User selects an operation
+- Enters two numbers
+- Program performs the calculation
+- Displays the result
+
+## 📂 File Structure
+calculator.c  → main source code
+
+## 📌 Example
+Enter choice: 1  
+Enter numbers: 5 3  
+Output: 8
+
+## 🔮 Future Improvements
+- Add more operations (power, square root)
+- Improve UI
+- Add error handling
