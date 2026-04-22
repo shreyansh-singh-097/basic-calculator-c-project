@@ -42,3 +42,10 @@ Output: 8
 - Add more operations (power, square root)
 - Improve UI
 - Add error handling
+
+- 
+## 👨‍💻 Author
+Shreyansh Singh
+
+## ⭐ Note
+This project is made for learning basic C programming concepts.
