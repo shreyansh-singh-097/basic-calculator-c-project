@@ -11,3 +11,15 @@ This is a simple command-line calculator program written in C. It performs basic
 - Division
 - Simple and easy to use
 - Runs in terminal
+
+ ## 🛠️ Tech Used
+- C Programming Language
+- Standard Library (stdio.h)
+
+## ▶️ How to Run
+
+1. Compile the code:
+   gcc calculator.c -o calculator
+
+2. Run the program:
+   ./calculator
