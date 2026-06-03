@@ -18,7 +18,7 @@ int main() {
         scanf("%d", &choice);
 
         if (choice == 6) {
-            printf("Thank you for using the calculator!\n");
+        printf("Thank you for using the calculator!\n");
             break;
         }
 
