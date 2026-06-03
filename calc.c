@@ -46,7 +46,7 @@ int main() {
             case 5:
                 printf("Result: %d\n", (int)num1 % (int)num2);
                 break;
-            default:
+                        default:
                 printf("Invalid choice! Please try again.\n");
         }
     }
